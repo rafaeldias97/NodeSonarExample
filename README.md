@@ -167,6 +167,7 @@ The test results should be successful as in the image below:
 ![Test Result](https://github.com/rafaeldias97/NodeSonarExample/blob/master/images/TestResult.PNG?raw=true)
 
 After all tests are successfully executed, a folder named "**coverage**" will be generated.
+
 ![Coverage Folder](https://github.com/rafaeldias97/NodeSonarExample/blob/master/images/CoverageFolder.PNG?raw=true)
 
 **Coverage** folder files are being referenced in **sonar-project.js**
